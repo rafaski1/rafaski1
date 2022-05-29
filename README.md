@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafal</h1>
 <h3 align="center">A passionate python developer</h3>
 
-- 🔭 I’m currently working on **Web and desktop apps with python (flask, pandas, thinker, opencv) and databases (postgresql, sqlite).**
+- 🔭 I’m currently working on **python apps with: flask, pandas, thinker, opencv; and databases: postgresql and sqlite.**
 
 - 👀 I’m interested in **Automation frameworks**
 

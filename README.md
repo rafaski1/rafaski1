@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafal</h1>
 <h3 align="center">Python / Data / Automation QA</h3>
 
-- 🔭 I'm currently working on: **python apps with: flask, pandas, thinter, opencv; and databases: postgresql and sqlite.**
+- 🔭 I'm currently working on: **python apps with: flask, pandas, thinter, opencv; data visualisation with bokeh and folium; and databases: postgresql and sqlite.**
 
 - 👀 I’m interested in **Data science**
 

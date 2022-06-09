@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafal</h1>
-<h3 align="center">Python / Data / Automation QA</h3>
+<h3 align="center">Python / Data Science / Automation QA</h3>
 
 🔭 I'm currently working on: 
 <ul>
@@ -9,7 +9,7 @@
   <li><strong>databases with postgresql and sqlite</strong></li>
 </ul>
 
-👀 I’m interested in **Data science**
+👀 I’m interested in **Data Science**
 
 🌱 I’m currently learning: **Python for Data Science and Machine Learning**
 

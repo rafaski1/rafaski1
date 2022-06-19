@@ -4,7 +4,7 @@
 🔭 I'm currently working on: 
 <ul>
   <li><strong>python apps with flask, pandas, numpy, thinter, opencv</strong></li>
-  <li><strong>data visualisation with bokeh, folium and matplotlib</strong></li>
+  <li><strong>data visualisation with bokeh, folium, matplotlib, seaborn and plotly</strong></li>
   <li><strong>automation testing with selenium webdriver</strong></li>
   <li><strong>databases with postgresql and sqlite</strong></li>
 </ul>

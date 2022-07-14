@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafal</h1>
-<h3 align="center">Python / Data Science / Big Data / Automation QA</h3>
+<h3 align="center">Python / Data Science / Big Data / Automation QA / AWS Cloud</h3>
 
 🔭 I'm currently working on: 
 <ul>

@@ -3,7 +3,7 @@
 
 🔭 Hands-on experience with: 
 <ul>
-  <li><strong>python apps</strong> with flask, pandas, numpy, thinter and opencv</li>
+  <li><strong>python web and desktop apps</strong> with flask, thinter and opencv</li>
   <li><strong>data science</strong> with pandas, numpy and sklearn</li>
   <li><strong>big data</strong> with pyspark and AWS</li>
   <li><strong>data visualisation</strong> with bokeh, folium, matplotlib, seaborn and plotly</li>

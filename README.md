@@ -12,9 +12,9 @@
   <li><strong>AWS Cloud</strong> with RDS, S3, DMS, Lambda, Glue, IAM, EC2</li>
 </ul>
 
-👀 I’m interested in **Data Science**
+👀 I’m interested in **Data Engineering and Big Data**
 
-🌱 I’m currently learning: **Python for Data Science and Machine Learning**
+🌱 I’m currently learning: **Scala and MongoDB**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 

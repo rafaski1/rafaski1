@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rafal</h1>
 <h3 align="center">Python / Data Science / Big Data / Automation QA / AWS Cloud</h3>
 
-🔭 I'm currently working on: 
+🔭 Hands-on experience with: 
 <ul>
-  <li><strong>python apps with flask, pandas, numpy, thinter, opencv</strong></li>
-  <li><strong>data visualisation with bokeh, folium, matplotlib, seaborn and plotly</strong></li>
-  <li><strong>automation testing with selenium webdriver</strong></li>
-  <li><strong>databases with postgresql and sqlite</strong></li>
+  <li><strong>python apps</strong> with flask, pandas, numpy, thinter and opencv</li>
+  <li><strong>data science</strong> with pandas, numpy and sklearn</li>
+  <li><strong>big data</strong> with pyspark and AWS</li>
+  <li><strong>data visualisation</strong> with bokeh, folium, matplotlib, seaborn and plotly</li>
+  <li><strong>automation QA</strong> with selenium and beautiful soup</li>
+  <li><strong>databases</strong> with postgresql, sqlite and mysql</li>
+  <li><strong>AWS Cloud</strong> with RDS, S3, DMS, Lambda, Glue, IAM, EC2</li>
 </ul>
 
 👀 I’m interested in **Data Science**

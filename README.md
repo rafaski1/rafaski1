@@ -5,7 +5,7 @@
 <ul>
   <li><strong>python web and desktop apps</strong> with flask, thinter and opencv</li>
   <li><strong>data science</strong> with pandas, numpy and sklearn</li>
-  <li><strong>big data</strong> with pyspark and AWS</li>
+  <li><strong>big data</strong> with python, scala, (py)spark and AWS</li>
   <li><strong>data visualisation</strong> with bokeh, folium, matplotlib, seaborn and plotly</li>
   <li><strong>automation QA</strong> with selenium and postman</li>
   <li><strong>databases</strong> with postgresql, sqlite and mysql</li>
